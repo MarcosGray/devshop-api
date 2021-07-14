@@ -1,2 +1,2 @@
 # devshop-api
-Projeto de estudo com React e Nextjs
+Projeto de estudo com React, Nestjs e typescript
