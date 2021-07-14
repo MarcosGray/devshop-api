@@ -1,2 +1,2 @@
 # devshop-api
-Projeto de estudo com React, Nestjs e typescript
+Projeto de estudo de um backend desenvolvido com React, Nestjs e typescript
